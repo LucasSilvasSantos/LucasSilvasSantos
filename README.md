@@ -4,19 +4,19 @@
 - 🔎 Estou à procura de um **estágio** onde possa aprender e evoluir junto com o projeto da empresa.
 - 📕 Fluente em português,Ingles intermediário.
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4169e1&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FF7F&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4169e1&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Lucas+Silva+Santos;I'm+a+Computer+Science+student;I’m+a+technology+content+creator;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF7F&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Lucas+Silva+Santos;I'm+a+Computer+Science+student;I’m+a+technology+content+creator;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-[![Lucas Silva Santos's github activity grap](https://github-readme-activity-graph.vercel.app/graph?username=LucassilvasSantos&bg_color=0d1117&color=4169e1&line=4169e1&point=4169e1&area=true&area_color=4169e1&hide_border=true)](https://github.com/LucassilvasSantos/)
+[![Lucas Silva Santos's github activity grap](https://github-readme-activity-graph.vercel.app/graph?username=LucassilvasSantos&bg_color=0d1117&color=00FF7F&line=00FF7F&point=00FF7F&area=true&area_color=00FF7F&hide_border=true)](https://github.com/LucassilvasSantos/)
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=LucassilvasSantos&theme=tokyonight&row=2&column=3&margin-w=15&margin-h=15&bg_color=0d1117" />
 </p>
 
 <div align="center">  
-    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LucassilvasSantos&show_icons=true&count_private=true&hide_border=true&title_color=4169e1&icon_color=4169e1&text_color=c9d1d9&bg_color=0d1117" alt="Lucas Silva Santos github stats" /> 
-    <img width="44%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucassilvasSantos&layout=compact&hide_border=true&title_color=4169e1&text_color=4169e1&bg_color=0d1117" />
+    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=LucassilvasSantos&show_icons=true&count_private=true&hide_border=true&title_color=00FF7F&icon_color=00FF7F&text_color=c9d1d9&bg_color=0d1117" alt="Lucas Silva Santos github stats" /> 
+    <img width="44%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucassilvasSantos&layout=compact&hide_border=true&title_color=00FF7F&text_color=00FF7F&bg_color=0d1117" />
 </div>
 
 <br>
@@ -30,7 +30,7 @@
 <br>
 
 <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=LucassilvasSantos&color=4169e1" alt="Profile views" />
+    <img src="https://komarev.com/ghpvc/?username=LucassilvasSantos&color=00FF7F" alt="Profile views" />
 </div>
 
 <br>
@@ -55,4 +55,4 @@
 
 <br>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4169e1&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FF7F&height=120&section=footer"/>
