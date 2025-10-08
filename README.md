@@ -2,7 +2,7 @@
 - 🔭 Atualmente eu curso o **2º período de CiC na PUC-MG**.
 - 🌱 Estou estudando agora **JAVAscript, HTML, CSS, C, C++, JAVA, PHP**.
 - 🔎 Estou à procura de um **estágio** onde possa aprender e evoluir junto com o projeto da empresa.
-- 📕 Fluente em português,Ingles intermediário.
+- 📕Ingles intermediário.
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00FF7F&height=120&section=header"/>
 
