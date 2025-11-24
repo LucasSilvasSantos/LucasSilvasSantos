@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Lucas Silva Santos
 - 🔭 Atualmente eu curso  **Ciencias da Computação na PUC-MG**.
-- 🌱 Estou estudando agora **JAVAscript, HTML, CSS, C, C++, JAVA, PHP**.
+- 🌱 Estou estudando agora **JAVAscript, HTML, CSS, C, C++, JAVA, SQL**.
 - 🔎 Estou à procura de um **estágio** onde possa aprender e evoluir junto com o projeto da empresa.
 - 📕Inglês intermediário.
 
