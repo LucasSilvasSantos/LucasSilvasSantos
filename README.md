@@ -40,7 +40,7 @@
 
 ### 👨🏻‍💻 &nbsp;Languages
 <p align="left">
-  <img src= "https://skillicons.dev/icons?i=c,cpp,cs,java,python" />
+  <img src= "https://skillicons.dev/icons?i=c,cpp,cs,java" />
 </p>
 
 ### 🎨 &nbsp;Web Development
