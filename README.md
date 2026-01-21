@@ -39,7 +39,7 @@
 ## 🛠 &nbsp;Techs & Specialties
 
 ### 👨🏻‍💻 &nbsp;Languages
-<p align="left">   <img src= "https://skillicons.dev/icons?i=c,cpp,cs,java" /> </p>
+<p align="left">   <img src= "https://skillicons.dev/icons?i=c,cpp,cs,java,ts" /> </p>
 
 
 ### 🎨 &nbsp;Web Development
