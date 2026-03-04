@@ -7,7 +7,6 @@
 ## 👨🏻‍💻 About Me
 
 🎓 Computer Science student at **PUC Minas**  
-💻 Focused on **Full Stack Development (React & Node.js)**  
 📚 Currently improving my skills in software architecture and clean code  
 🔎 Looking for an **internship opportunity** to grow and contribute to real-world projects  
 🌎 Intermediate English  
