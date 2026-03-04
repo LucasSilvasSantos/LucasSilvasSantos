@@ -1,57 +1,65 @@
-## Olá! Eu sou o Lucas Silva Santos
-- 🔭 Atualmente eu curso **Ciencias da Computação na PUC-MG**.
-- 🌱 Estou estudando agora **JavaScript, HTML, CSS, C, C++, JAVA, SQL, REACT, TYPESCRIPT**.
-- 🔎 Estou à procura de um **estágio** onde possa aprender e evoluir junto com o projeto da empresa.
-- 📕 Inglês intermediário.
+<h1 align="center">Hi 👋, I'm Lucas Silva Santos</h1>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00FF7F&height=120&section=header"/>
+<h3 align="center">Computer Science Student | Full Stack Developer in Progress 🚀</h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF7F&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Lucas+Silva+Santos;I'm+a+Computer+Science+student;I’m+a+technology+content+creator;Be+Welcome!+:%29)](https://git.io/typing-svg)
+---
 
-[![Lucas Silva Santos's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=LucassilvasSantos&bg_color=0d1117&color=00FF7F&line=00FF7F&point=00FF7F&area=true&area_color=00FF7F&hide_border=true)](https://github.com/LucassilvasSantos/)
+## 👨🏻‍💻 About Me
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LucassilvasSantos&theme=tokyonight&row=2&column=3&margin-w=15&margin-h=15&bg_color=0d1117" />
-</p>
+🎓 Computer Science student at **PUC Minas**  
+💻 Focused on **Full Stack Development (React & Node.js)**  
+📚 Currently improving my skills in software architecture and clean code  
+🔎 Looking for an **internship opportunity** to grow and contribute to real-world projects  
+🌎 Intermediate English  
 
-<div align="center">  
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=LucassilvasSantos&show_icons=true&count_private=true&hide_border=true&title_color=00FF7F&icon_color=00FF7F&text_color=c9d1d9&bg_color=0d1117" alt="Lucas Silva Santos github stats" /> 
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucassilvasSantos&layout=compact&hide_border=true&title_color=00FF7F&text_color=00FF7F&bg_color=0d1117" />
-</div>
+---
 
-<br>
-
-<div align="center"> 
-    <a href="mailto:lucsantos820@gmail.com" style="text-decoration: none;"><img src="https://img.shields.io/badge/-Gmail-ff5555?style=for-the-badge&logo=gmail&logoColor=fff" target="_blank"></a>
-    <a href="https://www.instagram.com/lucsantos820/" style="text-decoration: none;"><img src="https://img.shields.io/badge/-Instagram-ff79c6?style=for-the-badge&logo=instagram&logoColor=fff" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/lucas-silva-santos10//" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/-LinkedIn-bd93f9?style=for-the-badge&logo=linkedin&logoColor=fff" target="_blank"></a>
-</div>
-
-<br>
+## 🚀 Main Stack
 
 <div align="center">
-    <img src="https://komarev.com/ghpvc/?username=LucassilvasSantos&color=00FF7F" alt="Profile views" />
+  <img src="https://skillicons.dev/icons?i=react,ts,nodejs,js,html,css,postgres" />
 </div>
 
-<br>
-<br>
+---
 
-## 🛠 &nbsp;Techs & Specialties
+## 🛠 Technologies & Tools
 
-### 👨🏻‍💻 &nbsp;Languages
-<p align="left"> <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,ts" /> </p>
+### 💻 Languages
+<div>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,ts,js,sql" />
+</div>
 
+### 🌐 Web Development
+<div>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,bootstrap,jquery" />
+</div>
 
-### 🎨 &nbsp;Web Development
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,react,nextjs,jquery,nodejs,postgres" />
-</p>
+### ⚙️ Tools
+<div>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
+</div>
 
-### 🛠️ &nbsp;Tools & Platforms
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,linux" />
-</p>
+---
 
-<br>
+## 📊 GitHub Stats
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00FF7F&height=120&section=footer"/>
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LucassilvasSantos&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucassilvasSantos&layout=compact&theme=tokyonight&hide_border=true"/>
+</div>
+
+---
+
+## 📫 Connect with Me
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucsantos820@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-silva-santos10/)
+[![Instagram](https://img.shields.io/badge/-Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/lucsantos820/)
+
+</div>
+
+---
+
+<h3 align="center">💡 "Building solutions, learning every day, and growing through code."</h3>
