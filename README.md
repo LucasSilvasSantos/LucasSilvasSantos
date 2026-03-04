@@ -7,35 +7,28 @@
 ## 👨🏻‍💻 About Me
 
 🎓 Computer Science student at **PUC Minas**  
-📚 Currently improving my skills in software architecture and clean code  
-🔎 Looking for an **internship opportunity** to grow and contribute to real-world projects  
+💻 Passionate about Web Development and Software Engineering  
+📚 Constantly improving my skills in modern technologies and clean architecture  
+🔎 Currently looking for an **internship opportunity** to grow and contribute to real-world projects  
 🌎 Intermediate English  
 
 ---
 
-## 🚀 Main Stack
+## 🛠 Technologies & Skills
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,nodejs,js,html,css,postgres" />
-</div>
-
----
-
-## 🛠 Technologies & Tools
-
-### 💻 Languages
+### 💻 Programming Languages
 <div>
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,ts,js,sql" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,sql" />
 </div>
 
 ### 🌐 Web Development
 <div>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,bootstrap,jquery" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,nextjs,nodejs,jquery" />
 </div>
 
-### ⚙️ Tools
+### ⚙️ Tools & Platforms
 <div>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,azure" />
 </div>
 
 ---
